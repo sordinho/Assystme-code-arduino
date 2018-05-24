@@ -1,3 +1,16 @@
+/* 
+ * Filename: main.cpp
+ * File Created: Tuesday, May 22nd 2018, 18:25:05 
+ * ------
+ * Author: Davide Sordi, Daniele Rizzieri, Martina Cane
+ * GitHub: @AmI-2018
+ * ------
+ * Last Modified: Thursday, May 24th 2018, 16:52:27 
+ * ------
+ * This is the arduino sketch for detecting gas leak and water flow. 
+ * In case of danger arduino will send a warning using pins 2 and 3
+ */
+
 #include <Arduino.h>
 
 //Integrated led on Arduino board
